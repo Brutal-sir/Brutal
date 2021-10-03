@@ -26,6 +26,14 @@ Project created by <a href="https://github.com/Brutal-sir">Brutal</a> to make it
     <br> 
 </p>
 
+
+<h3 align="center">Contact Me:</h3>
+<p align="center">
+<a href="https://wa.me/917356484508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_br7.tl_x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+</p>
+
+
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Brutal-sir/AnuMwol&title=Profile%20Views)
 
 ----
